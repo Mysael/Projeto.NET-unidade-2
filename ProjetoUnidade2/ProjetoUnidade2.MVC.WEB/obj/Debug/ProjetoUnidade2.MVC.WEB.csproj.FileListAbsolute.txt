@@ -1,0 +1,102 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ApplicationInsights.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\csc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\vbc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\VBCSCompiler.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ProjetoUnidade2.MVC.WEB.dll.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ProjetoUnidade2.MVC.WEB.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ProjetoUnidade2.MVC.WEB.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.Web.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.ApplicationInsights.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Helpers.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Mvc.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Razor.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Deployment.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Razor.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.Web.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.ApplicationInsights.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Razor.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Deployment.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Razor.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Helpers.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Mvc.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.SqlServer.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ApplicationInsights.config
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\csc.exe
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\vbc.exe
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ProjetoUnidade2.MVC.WEB.dll.config
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ProjetoUnidade2.MVC.WEB.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\ProjetoUnidade2.MVC.WEB.pdb
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Helpers.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Mvc.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Razor.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Razor.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Helpers.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\bin\System.Web.Mvc.xml
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.csprojAssemblyReference.cache
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.csproj.CopyComplete
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.dll
+C:\Users\Mysael\Documents\ProjetoUnidade2\ProjetoUnidade2.MVC.WEB\obj\Debug\ProjetoUnidade2.MVC.WEB.pdb
